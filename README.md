@@ -1,5 +1,5 @@
 # desbloqueoNetbooks
-Online service that connects to the Theft Deterrent Server to get an unlock code. Quite usefull to que rid of the dayly chore done by the network admin in educational institutions. 
+Online service that interfaces with the Theft Deterrent Server to get an unlock code. It allows us to get rid of this dayly chore done by the network admin in educational institutions. 
 
 Sistema web para desbloqueo de netbooks con el agente de Theft Deterrent Server, Intel Learning Series 2010, Version 3.0 (Conectar Igualdad en Argentina)
 
